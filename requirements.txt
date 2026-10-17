@@ -1,0 +1,13 @@
+#Langchain Core
+langchain
+langchain-core
+
+#Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+#environment Variables Management
+python-dotenv
+#machine Learning
+scikit-learn    
+numpy
